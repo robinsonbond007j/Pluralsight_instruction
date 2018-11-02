@@ -5,3 +5,9 @@ C:\Users\25599\source\repos\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInp
 C:\Users\25599\source\repos\Grades\Grades\obj\Debug\Grades.exe
 C:\Users\25599\source\repos\Grades\Grades\obj\Debug\Grades.pdb
 C:\Users\25599\source\repos\Grades\Grades\obj\Debug\Grades.csprojAssemblyReference.cache
+C:\Users\25599\Desktop\GitHub\Pluralsight_instruction\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\25599\Desktop\GitHub\Pluralsight_instruction\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\25599\Desktop\GitHub\Pluralsight_instruction\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\25599\Desktop\GitHub\Pluralsight_instruction\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\25599\Desktop\GitHub\Pluralsight_instruction\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\25599\Desktop\GitHub\Pluralsight_instruction\Grades\Grades\obj\Debug\Grades.pdb
