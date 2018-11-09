@@ -32,3 +32,5 @@ C:\Users\25599\Desktop\GitHub\Pluralsight_instruction\Grades\Grades.Test\obj\Deb
 C:\Users\25599\Desktop\GitHub\Pluralsight_instruction\Grades\Grades.Test\obj\Debug\Grades.Test.csproj.CopyComplete
 C:\Users\25599\Desktop\GitHub\Pluralsight_instruction\Grades\Grades.Test\obj\Debug\Grades.Test.dll
 C:\Users\25599\Desktop\GitHub\Pluralsight_instruction\Grades\Grades.Test\obj\Debug\Grades.Test.pdb
+C:\Users\Josh\Documents\Pluralsight_instruction\Grades\Grades.Test\obj\Debug\Grades.Test.csprojAssemblyReference.cache
+C:\Users\Josh\Documents\Pluralsight_instruction\Grades\Grades.Test\obj\Debug\Grades.Test.csproj.CoreCompileInputs.cache
