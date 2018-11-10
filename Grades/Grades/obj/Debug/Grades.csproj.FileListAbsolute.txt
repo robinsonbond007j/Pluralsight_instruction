@@ -17,3 +17,4 @@ C:\Users\Josh\Documents\Pluralsight_instruction\Grades\Grades\bin\Debug\Grades.p
 C:\Users\Josh\Documents\Pluralsight_instruction\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
 C:\Users\Josh\Documents\Pluralsight_instruction\Grades\Grades\obj\Debug\Grades.exe
 C:\Users\Josh\Documents\Pluralsight_instruction\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\Josh\Documents\Pluralsight_instruction\Grades\Grades\obj\Debug\Grades.csprojAssemblyReference.cache
